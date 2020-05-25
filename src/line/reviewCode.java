@@ -1,3 +1,4 @@
+/*
 package line;
 
 public class MainActivity extends Activity {
@@ -66,4 +67,4 @@ public class MainActivity extends Activity {
 
     }
 
-}
+}*/
